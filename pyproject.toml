@@ -1,5 +1,5 @@
 [tool.ruff]
-line-length = 500  # Set max line length (change to your preference)
+line-length = 120  # Set max line length (change to your preference)
 extend-ignore = ["E501"]  # Ignore long-line errors
 
 extend-select = ["E225"]
