@@ -7,6 +7,5 @@ Files that are most relevant to the project:
 - n_gaussian_fitter_bySafwan: n gaussian fitter using mcmc (made by Safwan)
 
 change of file names:
-Playground => n_gaussian_fitter_bySafwan
-
-ForSafwan_edited2 => mcmc_and_radex
+- Playground => n_gaussian_fitter_bySafwan
+- ForSafwan_edited2 => mcmc_and_radex
